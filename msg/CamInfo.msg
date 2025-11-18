@@ -1,0 +1,4 @@
+string camera_id
+uint32 camera_img_width
+uint32 camera_img_height
+float32 camera_focal_length

@@ -1,4 +1,4 @@
 std_msgs/Header header
 sensor_msgs/Image source_img
 CamInfo cam_info
-Detection2D[] detections
+VLMDetection[] vlm_detections

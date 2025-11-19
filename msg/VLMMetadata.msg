@@ -1,0 +1,3 @@
+string model_name
+string system_prompt
+string user_prompt

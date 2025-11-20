@@ -1,4 +1,4 @@
-# Output of the VLM model after parsing
+# Output of the VLM model after parsing. Associated to an user and system prompts
 VLMMetadata vlm_metadata
 Detection2D[] detections
 float32 threshold

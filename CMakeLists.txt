@@ -14,10 +14,16 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ActorRelation.msg"
   "msg/CamInfo.msg"
   "msg/Detection2D.msg"
-  "msg/ImgDetections.msg"
-  "msg/Observation.msg"
+  "msg/ImageBatch.msg"
+  "msg/PersonEmotion.msg"
+  "msg/PersonGesture.msg"
   "msg/PersonState.msg"
   "msg/RobotState.msg"
+  "msg/TextPrompt.msg"
+  "msg/VLMMetadata.msg"
+  "msg/VLMOutput.msg"
+  "msg/VLMOutputs.msg"
+  "msg/VLMPrompts.msg"
   DEPENDENCIES
     std_msgs
     geometry_msgs

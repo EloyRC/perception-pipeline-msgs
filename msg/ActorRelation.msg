@@ -1,6 +1,6 @@
 # Action relations which can be detected
 uint8 CAN_INTERACT_WITH = 0
-uint8 IS_ITERACTING_WITH = 1
+uint8 IS_INTERACTING_WITH = 1
 uint8 IS_LOOKING_AT = 2
 uint8 IS_POINTING_AT = 3
 uint8 IS_ATTENDING_TO = 4
